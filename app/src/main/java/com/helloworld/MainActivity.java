@@ -13,6 +13,5 @@ public class MainActivity extends AppCompatActivity {
 
         Log.v("Hii","Hiii, Hello World");
 
-        Log.v("Heloo","Git");
     }
 }
